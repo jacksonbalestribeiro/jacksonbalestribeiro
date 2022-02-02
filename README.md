@@ -1,11 +1,11 @@
-<h1 align="center">Olá! eu sou o Jackson </h1>
+<h1 align="left">Olá! eu sou o Jackson </h1>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/jacksonbalestribeiro/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jacksonbalestribeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonbalestribeiro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align="left"><br>
   <img align="center"  height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center"  height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
